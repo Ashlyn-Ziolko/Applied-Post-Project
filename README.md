@@ -1,2 +1,2 @@
 # Applied-Post-Project
-All documents, forms, and coding for the Applied Post Project
+All documents, forms, and coding for the Applied Post Project: I have attached the fillable form I created, blank and filled out (the one used for testing); a recording of the automation working (the red boxes that pop up randomly is the robot scraping data) at the end of the automation I pull up the file the robot writes; the excel file that the robot wrote about the patient; and the xaml files/JSON file for the automation itself. Enjoy!
